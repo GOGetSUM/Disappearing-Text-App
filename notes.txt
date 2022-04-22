@@ -1,0 +1,1 @@
+I'll use binding to connect events and actions.
